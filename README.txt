@@ -1,5 +1,3 @@
-Computational Mathematics Final Project
-
 README
 
 Erik Garcia & Ruoyu Zhang
